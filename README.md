@@ -6,3 +6,12 @@ https://youtu.be/QYqPwzVt8Is
 ![image](https://user-images.githubusercontent.com/6966136/181173578-d3fde672-640e-42f1-8342-5b0790bbeaaa.png)
 # xem log : docker logs container_id
 ![image](https://user-images.githubusercontent.com/6966136/181173632-77fce5a1-6965-45aa-8673-f89e0674a4b4.png)
+https://tecadmin.net/docker-compose-persistent-mysql-data/
+
+https://docs.docker.com/engine/reference/commandline/ps/
+
+https://stackoverflow.com/questions/28389458/how-to-execute-mysql-command-from-the-host-to-container-running-mysql-server
+
+https://stackoverflow.com/questions/33001750/connect-to-mysql-in-a-docker-container-from-the-host
+
+
