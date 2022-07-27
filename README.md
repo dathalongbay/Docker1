@@ -16,6 +16,12 @@ https://stackoverflow.com/questions/33001750/connect-to-mysql-in-a-docker-contai
 
 https://github.com/do-community/travellist-laravel-demo
 
+https://viblo.asia/p/gioi-thieu-ve-docker-compose-nhung-cau-lenh-thuong-dung-trong-docker-compose-bJzKmrXwZ9N
 
-
+https://xuanthulab.net/lenh-docker-compose-tao-va-chay-cac-dich-vu-docker.html
+https://viblo.asia/p/nhung-cau-lenh-va-cac-tuy-chon-huu-ich-trong-docker-m68Z0MdMlkG
+https://tedu.com.vn/kien-thuc/cac-cau-lenh-huu-dung-trong-docker-ma-ban-can-nho-295.html
+https://kipalog.com/posts/Cac-lenh-co-ban-voi-docker
+https://kipalog.com/posts/Cac-lenh-co-ban-voi-docker
+https://comdy.vn/docker/cach-su-dung-docker-compose/
 
