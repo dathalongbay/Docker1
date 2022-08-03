@@ -9,6 +9,11 @@ OCI runtime exec failed: exec failed: container_linux.go:380: starting container
 ## Truy cập vào chế độ bash của container 
 ![image](https://user-images.githubusercontent.com/6966136/182552139-14f8a23f-9ae8-437b-8560-f2d62b29a7ec.png)
 ## xem cấu trúc thư mục : ls -l
+# docker-compose exec nginx bash
+![image](https://user-images.githubusercontent.com/6966136/182565506-6e9667a1-92af-4a82-b174-043349a43d80.png)
+# docker exec container bash
+# docker exec container bash
+
 
 
 
